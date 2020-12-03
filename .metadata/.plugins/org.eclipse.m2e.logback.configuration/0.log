@@ -1,0 +1,853 @@
+2020-10-02 00:38:11,932 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-02 00:38:52,567 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 00:38:53,535 [Worker-0: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:38:55,602 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 00:39:01,287 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/main/java
+2020-10-02 00:39:01,288 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 00:39:01,298 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 00:39:01,319 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/test/java
+2020-10-02 00:39:02,366 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/main/java
+2020-10-02 00:39:02,366 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 00:39:02,378 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 00:39:02,392 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/test/java
+2020-10-02 00:39:03,445 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 14 sec
+2020-10-02 00:39:05,995 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:39:06,706 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:39:06,710 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:39:06,724 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:39:06,727 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:39:06,728 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:39:08,763 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:39:09,168 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:39:09,169 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:39:09,172 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:39:09,173 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:39:09,173 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:46:30,261 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:30,263 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:30,263 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:30,265 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:30,266 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:46:30,395 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:30,396 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:30,396 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:30,398 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:30,399 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:46:39,578 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:39,579 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:39,579 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:39,581 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:39,581 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:46:54,912 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:54,913 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:54,913 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:46:54,915 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:46:54,915 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:47:09,528 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 00:47:10,103 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:47:11,237 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:11,238 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:47:11,238 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:47:11,240 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:11,240 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:47:15,559 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 00:47:16,194 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:47:17,966 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:17,966 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:47:17,966 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:47:17,969 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:17,970 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:47:20,417 [Worker-3: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:47:25,970 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-02 00:47:27,319 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 00:47:27,709 [Worker-6: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:47:28,533 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 00:47:30,521 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/main/java
+2020-10-02 00:47:30,521 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 00:47:30,522 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 00:47:30,522 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/test/java
+2020-10-02 00:47:31,093 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/main/java
+2020-10-02 00:47:31,094 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 00:47:31,094 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 00:47:31,094 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/test/java
+2020-10-02 00:47:32,476 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-10-02 00:47:33,554 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:47:34,088 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:34,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:47:34,104 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:47:34,106 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:34,106 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:47:35,761 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:47:36,141 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:36,141 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:47:36,144 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:47:36,146 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:47:36,146 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:50:27,205 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-02 00:50:33,900 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:50:35,984 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:50:35,991 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:50:36,009 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:50:36,013 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:50:36,014 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:50:38,986 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:50:39,694 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:50:39,695 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:50:39,700 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:50:39,703 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:50:39,704 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:51:01,787 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-02 00:51:03,660 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 00:51:04,104 [Worker-5: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:51:04,866 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 00:51:07,231 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/main/java
+2020-10-02 00:51:07,232 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 00:51:07,233 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 00:51:07,233 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/test/java
+2020-10-02 00:51:07,967 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/main/java
+2020-10-02 00:51:07,968 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 00:51:07,968 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 00:51:07,969 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/test/java
+2020-10-02 00:51:09,498 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2020-10-02 00:51:10,721 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:51:11,265 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:51:11,266 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:51:11,275 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:51:11,277 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:51:11,277 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:51:13,079 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:51:13,528 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:51:13,529 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:51:13,531 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:51:13,533 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:51:13,533 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:52:06,136 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 00:52:06,706 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:52:07,717 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:52:07,718 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:52:07,718 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:52:07,720 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:52:07,720 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:52:10,087 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 00:52:10,605 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:52:10,607 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:52:10,610 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:52:10,612 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:52:10,613 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 00:56:08,103 [Worker-10: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:56:08,104 [Worker-10: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:56:08,108 [Worker-10: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:56:08,111 [Worker-10: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:56:08,111 [Worker-10: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:57:43,145 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:57:43,147 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:57:43,151 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:57:43,154 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:57:43,154 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 00:58:06,586 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:58:06,586 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 00:58:06,588 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 00:58:06,590 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 00:58:06,590 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:01:12,318 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:01:12,320 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:01:12,325 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:01:12,328 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:01:12,329 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:18:02,554 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:02,555 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:18:02,560 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:18:02,563 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:02,563 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 01:18:21,231 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 01:18:21,998 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:18:23,264 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:23,264 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:18:23,265 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:18:23,267 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:23,267 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 01:18:43,063 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:43,065 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:18:43,069 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:18:43,071 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:43,071 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:18:54,572 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 01:18:55,213 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:18:57,403 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:57,404 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:18:57,404 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:18:57,406 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:18:57,406 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:19:01,120 [Worker-7: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:07,349 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-02 01:19:08,787 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 01:19:09,326 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:09,983 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 01:19:12,023 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/main/java
+2020-10-02 01:19:12,023 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 01:19:12,023 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 01:19:12,024 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/test/java
+2020-10-02 01:19:12,697 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/main/java
+2020-10-02 01:19:12,697 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 01:19:12,697 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 01:19:12,698 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/test/java
+2020-10-02 01:19:14,295 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-10-02 01:19:15,215 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:15,627 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:15,628 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:19:15,638 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:19:15,640 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:15,640 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 01:19:17,367 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:17,689 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:17,690 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:19:17,691 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:19:17,693 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:17,693 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:19:26,838 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-02 01:19:27,903 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 01:19:28,290 [Worker-20: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:28,895 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 01:19:30,929 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/main/java
+2020-10-02 01:19:30,929 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 01:19:30,929 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-eureka/src/main/resources
+2020-10-02 01:19:30,930 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-eureka/src/test/java
+2020-10-02 01:19:31,583 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/main/java
+2020-10-02 01:19:31,583 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 01:19:31,583 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-seguridad/src/main/resources
+2020-10-02 01:19:31,584 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-seguridad/src/test/java
+2020-10-02 01:19:32,993 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-10-02 01:19:33,929 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:34,362 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:34,362 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:19:34,371 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:19:34,372 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:34,373 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 01:19:35,879 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:19:36,239 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:36,239 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:19:36,241 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:19:36,242 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:19:36,243 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:29:57,045 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.zuul:microservicio-zuul:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\pom.xml.
+2020-10-02 01:29:57,428 [Worker-11: Import Getting Started Content] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:30:03,730 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE.pom
+2020-10-02 01:30:04,005 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE.pom
+2020-10-02 01:30:08,559 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.5.RELEASE/spring-cloud-netflix-zuul-2.2.5.RELEASE.pom
+2020-10-02 01:30:08,869 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.5.RELEASE/spring-cloud-netflix-zuul-2.2.5.RELEASE.pom
+2020-10-02 01:30:12,882 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE.pom
+2020-10-02 01:30:13,163 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE.pom
+2020-10-02 01:30:13,479 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-serialization/1.5.18/hystrix-serialization-1.5.18.pom
+2020-10-02 01:30:13,761 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-serialization/1.5.18/hystrix-serialization-1.5.18.pom
+2020-10-02 01:30:17,961 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.2/jackson-module-afterburner-2.11.2.pom
+2020-10-02 01:30:18,353 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.2/jackson-module-afterburner-2.11.2.pom
+2020-10-02 01:30:18,679 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.18/hystrix-metrics-event-stream-1.5.18.pom
+2020-10-02 01:30:18,968 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.18/hystrix-metrics-event-stream-1.5.18.pom
+2020-10-02 01:30:19,289 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.pom
+2020-10-02 01:30:19,558 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.pom
+2020-10-02 01:30:19,827 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.pom
+2020-10-02 01:30:20,342 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.pom
+2020-10-02 01:30:20,701 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.pom
+2020-10-02 01:30:20,973 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.pom
+2020-10-02 01:30:25,507 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE.jar
+2020-10-02 01:30:25,783 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE.jar
+2020-10-02 01:30:30,244 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.5.RELEASE/spring-cloud-netflix-zuul-2.2.5.RELEASE.jar
+2020-10-02 01:30:31,079 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.5.RELEASE/spring-cloud-netflix-zuul-2.2.5.RELEASE.jar
+2020-10-02 01:30:35,005 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE.jar
+2020-10-02 01:30:35,284 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE.jar
+2020-10-02 01:30:35,654 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-serialization/1.5.18/hystrix-serialization-1.5.18.jar
+2020-10-02 01:30:35,922 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-serialization/1.5.18/hystrix-serialization-1.5.18.jar
+2020-10-02 01:30:40,350 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.2/jackson-module-afterburner-2.11.2.jar
+2020-10-02 01:30:41,134 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.2/jackson-module-afterburner-2.11.2.jar
+2020-10-02 01:30:41,434 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.18/hystrix-metrics-event-stream-1.5.18.jar
+2020-10-02 01:30:41,719 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.18/hystrix-metrics-event-stream-1.5.18.jar
+2020-10-02 01:30:42,031 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar
+2020-10-02 01:30:42,310 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar
+2020-10-02 01:30:42,574 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar
+2020-10-02 01:30:43,140 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar
+2020-10-02 01:30:43,476 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar
+2020-10-02 01:30:43,761 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar
+2020-10-02 01:30:44,965 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-zuul/src/main/java
+2020-10-02 01:30:44,965 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-zuul/src/main/resources
+2020-10-02 01:30:44,975 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-zuul/src/main/resources
+2020-10-02 01:30:44,987 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-zuul/src/test/java
+2020-10-02 01:30:46,724 [Worker-9: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:30:46,755 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 51 sec
+2020-10-02 01:30:46,757 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-02 01:30:47,763 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.zuul:microservicio-zuul:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\pom.xml.
+2020-10-02 01:30:48,257 [Worker-11: Import Getting Started Content] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:30:50,434 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-zuul/src/main/java
+2020-10-02 01:30:50,434 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-zuul/src/main/resources
+2020-10-02 01:30:50,436 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-zuul/src/main/resources
+2020-10-02 01:30:50,440 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-zuul/src/test/java
+2020-10-02 01:30:50,765 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE-sources.jar
+2020-10-02 01:30:51,440 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-10-02 01:30:51,578 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE-sources.jar
+2020-10-02 01:30:51,589 [Worker-9: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.2.5.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-zuul:jar:sources:2.2.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-10-02 01:30:52,385 [Worker-9: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 01:30:52,919 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:30:52,920 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:30:52,922 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:30:52,924 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:30:52,924 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:30:58,836 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.5.RELEASE/spring-cloud-netflix-zuul-2.2.5.RELEASE-sources.jar
+2020-10-02 01:30:59,261 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.5.RELEASE/spring-cloud-netflix-zuul-2.2.5.RELEASE-sources.jar
+2020-10-02 01:30:59,324 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-zuul:2.2.5.RELEASE
+2020-10-02 01:31:02,542 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE-sources.jar
+2020-10-02 01:31:02,998 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE-sources.jar
+2020-10-02 01:31:03,004 [Worker-9: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:2.2.5.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:sources:2.2.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-10-02 01:31:08,168 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-serialization/1.5.18/hystrix-serialization-1.5.18-sources.jar
+2020-10-02 01:31:08,412 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-serialization/1.5.18/hystrix-serialization-1.5.18-sources.jar
+2020-10-02 01:31:08,461 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.18
+2020-10-02 01:31:14,361 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.2/jackson-module-afterburner-2.11.2-sources.jar
+2020-10-02 01:31:14,912 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.2/jackson-module-afterburner-2.11.2-sources.jar
+2020-10-02 01:31:14,967 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.11.2
+2020-10-02 01:31:20,816 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.18/hystrix-metrics-event-stream-1.5.18-sources.jar
+2020-10-02 01:31:21,150 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.18/hystrix-metrics-event-stream-1.5.18-sources.jar
+2020-10-02 01:31:21,209 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.18
+2020-10-02 01:31:26,604 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18-sources.jar
+2020-10-02 01:31:27,005 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18-sources.jar
+2020-10-02 01:31:27,060 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.18
+2020-10-02 01:31:29,279 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10-sources.jar
+2020-10-02 01:31:30,708 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10-sources.jar
+2020-10-02 01:31:30,789 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.10
+2020-10-02 01:31:36,132 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:31:36,136 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:31:36,138 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:31:36,139 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:31:36,140 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:31:36,598 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar
+2020-10-02 01:31:37,148 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar
+2020-10-02 01:31:37,194 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.zuul:zuul-core:1.3.1
+2020-10-02 01:31:40,768 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE-javadoc.jar
+2020-10-02 01:31:41,307 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.2.5.RELEASE/spring-cloud-starter-netflix-zuul-2.2.5.RELEASE-javadoc.jar
+2020-10-02 01:31:41,313 [Worker-9: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.2.5.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-zuul:jar:javadoc:2.2.5.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:805) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:750) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-10-02 01:31:41,320 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-zuul:2.2.5.RELEASE
+2020-10-02 01:31:46,750 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE-javadoc.jar
+2020-10-02 01:31:47,062 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://globaldevtools.bbva.com/artifactory-api/repository-apx/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.2.5.RELEASE/spring-cloud-starter-netflix-hystrix-2.2.5.RELEASE-javadoc.jar
+2020-10-02 01:31:47,127 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:2.2.5.RELEASE
+2020-10-02 01:31:47,134 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.18
+2020-10-02 01:31:47,141 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.11.2
+2020-10-02 01:31:47,148 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.18
+2020-10-02 01:31:47,155 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.18
+2020-10-02 01:31:47,161 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.10
+2020-10-02 01:31:47,166 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.zuul:zuul-core:1.3.1
+2020-10-02 01:31:47,177 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-zuul:2.2.5.RELEASE
+2020-10-02 01:31:47,187 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.18
+2020-10-02 01:31:47,192 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.11.2
+2020-10-02 01:31:47,196 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.18
+2020-10-02 01:31:47,204 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.18
+2020-10-02 01:31:47,209 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.10
+2020-10-02 01:31:47,214 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.zuul:zuul-core:1.3.1
+2020-10-02 01:31:47,224 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-zuul:2.2.5.RELEASE
+2020-10-02 01:31:47,230 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.18
+2020-10-02 01:31:47,238 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.11.2
+2020-10-02 01:31:47,243 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.18
+2020-10-02 01:31:47,248 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.18
+2020-10-02 01:31:47,265 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.10
+2020-10-02 01:31:47,271 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.zuul:zuul-core:1.3.1
+2020-10-02 01:31:48,647 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:31:48,648 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:31:48,649 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:31:48,650 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:31:48,651 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:32:34,530 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:32:34,532 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:32:34,534 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:32:34,535 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:32:34,536 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:35:41,491 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:35:41,491 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:35:41,491 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:35:41,493 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:35:41,493 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:36:23,408 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:36:23,409 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:36:23,410 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:36:23,412 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:36:23,412 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:37:08,127 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:37:08,127 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:37:08,129 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:37:08,131 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:37:08,131 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:43:39,987 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:43:39,992 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:43:39,995 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:43:39,998 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:43:39,999 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:44:04,303 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:44:04,304 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:44:04,307 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:44:04,309 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:44:04,310 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 01:46:14,073 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:46:14,073 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:46:14,074 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:46:14,075 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:46:14,076 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:46:51,937 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:46:51,938 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:46:51,940 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:46:51,942 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:46:51,942 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:47:26,358 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:47:26,358 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:47:26,360 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:47:26,362 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:47:26,362 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 01:50:12,569 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:50:12,571 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 01:50:12,573 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 01:50:12,575 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 01:50:12,575 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:01:23,461 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:01:23,462 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:01:23,465 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:01:23,467 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:01:23,467 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:11:21,977 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:11:21,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:11:21,986 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:11:21,988 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:11:21,989 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:16:07,611 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:16:07,615 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:16:07,618 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:16:07,621 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:16:07,621 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:21:06,574 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:21:06,580 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:21:06,583 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:21:06,586 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:21:06,586 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:26:18,253 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:26:18,255 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:26:18,257 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:26:18,259 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:26:18,259 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:28:34,243 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:28:34,244 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:28:34,247 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:28:34,249 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:28:34,249 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:31:52,884 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:31:52,885 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:31:52,887 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:31:52,890 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:31:52,890 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:32:11,276 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:32:11,276 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:32:11,278 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:32:11,281 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:32:11,281 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:33:12,277 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:33:12,278 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:33:12,282 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:33:12,284 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:33:12,284 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:34:22,059 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:34:22,061 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:34:22,064 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:34:22,066 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:34:22,066 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:36:02,889 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:36:02,891 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:36:02,893 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:36:02,895 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:36:02,895 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:39:16,766 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-02 02:39:46,168 [Worker-10: Launching microservicio-eureka - MicroservicioEurekaApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 02:40:05,618 [Worker-5: Launching microservicio-seguridad - MicroservicioSeguridadApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 02:40:27,928 [Worker-2: Launching microservicio-zuul - MicroservicioZuulApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 02:44:36,720 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:44:36,726 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:44:36,740 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:44:36,744 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:44:36,744 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:46:15,500 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:46:15,504 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:46:15,509 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:46:15,515 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:46:15,515 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 02:50:09,547 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:50:09,550 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:50:09,555 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:50:09,558 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:50:09,558 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:51:30,116 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:51:30,119 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:51:30,123 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:51:30,125 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:51:30,125 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 02:51:56,316 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:51:56,317 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 02:51:56,320 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 02:51:56,322 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 02:51:56,322 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 03:01:26,112 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 03:01:26,119 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 03:01:26,125 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 03:01:26,132 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 03:01:26,133 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 03:18:55,827 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 03:18:55,833 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 03:18:55,840 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 03:18:55,846 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 03:18:55,847 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 12:07:38,439 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-02 12:07:52,984 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 12:07:54,911 [Worker-14: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:07:58,432 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.zuul:microservicio-zuul:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\pom.xml.
+2020-10-02 12:08:00,264 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 12:08:00,972 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+	at org.fusesource.ide.camel.model.service.core.internal.Trace.isPerformanceTraceOptionActivated(Trace.java:74) ~[na:na]
+	at org.fusesource.ide.camel.model.service.core.util.CamelFilesFinder.findFiles(CamelFilesFinder.java:46) ~[na:na]
+	at org.fusesource.ide.projecttemplates.maven.CamelProjectConfigurator.checkCamelContextsExist(CamelProjectConfigurator.java:333) ~[na:na]
+	at org.fusesource.ide.projecttemplates.maven.CamelProjectConfigurator.mavenProjectChanged(CamelProjectConfigurator.java:80) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:1033) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1375) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.600.v20191122-2104.jar:na]
+2020-10-02 12:30:50,072 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-02 12:31:00,754 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.eureka:microservicio-eureka:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\pom.xml.
+2020-10-02 12:31:01,874 [Worker-3: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:31:03,948 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.zuul:microservicio-zuul:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\pom.xml.
+2020-10-02 12:31:05,259 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 12:31:11,059 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:31:12,163 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:31:12,169 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:31:12,184 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:31:12,191 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:31:12,191 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-eureka\src\test\resources
+2020-10-02 12:31:14,874 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:31:15,405 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:31:15,405 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:31:15,409 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:31:15,412 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:31:15,412 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:31:18,168 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:31:18,762 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:31:18,763 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:31:18,765 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:31:18,766 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:31:18,767 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-zuul\src\test\resources
+2020-10-02 12:34:30,072 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\pom.xml.
+2020-10-02 12:34:31,870 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-commons/src/main/java
+2020-10-02 12:34:31,871 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-commons/src/main/resources
+2020-10-02 12:34:31,880 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-commons/src/main/resources
+2020-10-02 12:34:31,896 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-commons/src/test/java
+2020-10-02 12:34:33,301 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-10-02 12:34:33,305 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-02 12:34:33,983 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\pom.xml.
+2020-10-02 12:34:35,521 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-commons/src/main/java
+2020-10-02 12:34:35,522 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-commons/src/main/resources
+2020-10-02 12:34:35,524 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-commons/src/main/resources
+2020-10-02 12:34:35,531 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-commons/src/test/java
+2020-10-02 12:34:36,253 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-10-02 12:34:37,745 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:34:37,746 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:34:37,748 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:34:37,749 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:34:37,750 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:35:25,724 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\pom.xml.
+2020-10-02 12:35:26,554 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:35:26,556 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:35:26,557 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:35:26,559 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:35:26,559 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:35:41,264 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\pom.xml.
+2020-10-02 12:35:42,191 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:35:42,200 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:35:42,202 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:35:42,203 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:35:42,203 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:36:01,107 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:36:01,108 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:36:01,109 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:36:01,111 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:36:01,111 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:36:31,833 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:36:31,833 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:36:31,837 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:36:31,839 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:36:31,839 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:37:01,971 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:01,972 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:37:01,974 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:37:01,977 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:01,977 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:37:06,388 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:06,389 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:37:06,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:37:06,392 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:06,392 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:37:29,081 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:29,083 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:37:29,086 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:37:29,088 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:29,088 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:37:35,857 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:35,858 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:37:35,860 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:37:35,863 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:35,863 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:37:56,780 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:56,781 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:37:56,783 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:37:56,786 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:37:56,786 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:40:01,932 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:40:01,933 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:40:01,936 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:40:01,938 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:40:01,938 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:40:12,646 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:40:12,647 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:40:12,649 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:40:12,651 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:40:12,651 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:41:14,020 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:41:14,021 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:41:14,024 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:41:14,026 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:41:14,027 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:41:52,309 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:41:52,310 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:41:52,312 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:41:52,313 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:41:52,313 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:43:56,648 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:43:56,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:43:56,652 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:43:56,654 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:43:56,654 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:45:35,000 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:45:35,001 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:45:35,004 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:45:35,008 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:45:35,009 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:45:51,009 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:45:51,009 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:45:51,011 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:45:51,012 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:45:51,012 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:45:54,048 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:45:54,049 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:45:54,051 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:45:54,053 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:45:54,053 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:46:15,199 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:46:15,200 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:46:15,201 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:46:15,203 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:46:15,203 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:46:53,379 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:46:53,379 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:46:53,381 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:46:53,382 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:46:53,382 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:47:42,563 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sanchez.microservicios.app.seguridad:microservicio-seguridad:0.0.1-SNAPSHOT @ D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\pom.xml.
+2020-10-02 12:47:43,744 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:47:44,676 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio-commons: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT with classifier  to /microservicio-commons/target/classes
+2020-10-02 12:47:45,896 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio-commons: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT with classifier  to /microservicio-commons/target/classes
+2020-10-02 12:47:46,667 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:47:46,667 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:47:46,667 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:47:46,669 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:47:46,669 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:47:49,875 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-10-02 12:47:50,402 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio-commons: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT with classifier  to /microservicio-commons/target/classes
+2020-10-02 12:47:50,409 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:47:50,410 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:47:50,412 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:47:50,414 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:47:50,414 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:48:27,217 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:48:27,218 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:48:27,221 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:48:27,222 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:48:27,223 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:48:40,577 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:48:40,578 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:48:40,581 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:48:40,583 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:48:40,583 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:51:34,387 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:51:34,388 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:51:34,390 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:51:34,391 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:51:34,392 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:51:38,028 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:51:38,029 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:51:38,031 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:51:38,032 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:51:38,032 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:51:48,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:51:48,707 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:51:48,712 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:51:48,715 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:51:48,715 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:52:24,578 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:52:24,578 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:52:24,580 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:52:24,582 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:52:24,582 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:54:10,705 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:10,706 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:54:10,708 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:54:10,709 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:10,710 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:54:23,265 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:23,266 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:54:23,268 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:54:23,270 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:23,271 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:54:27,384 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:27,384 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:54:27,386 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:54:27,388 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:27,388 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:54:47,063 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:47,064 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:54:47,066 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:54:47,067 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:54:47,068 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:55:28,932 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:55:28,932 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:55:28,946 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:55:28,949 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:55:28,949 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 12:56:19,462 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:56:19,463 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:56:19,466 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:56:19,468 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:56:19,468 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:56:25,929 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:56:25,930 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:56:25,931 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:56:25,933 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:56:25,933 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 12:56:30,216 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:56:30,217 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 12:56:30,219 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 12:56:30,220 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 12:56:30,220 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-commons\src\test\resources
+2020-10-02 15:40:22,389 [Worker-18: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio-commons: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT with classifier null to /microservicio-commons/target/classes
+2020-10-02 15:40:23,164 [Worker-18: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio-commons: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT with classifier null to /microservicio-commons/target/classes
+2020-10-02 15:40:24,049 [Worker-18: Launching microservicio-seguridad - MicroservicioSeguridadApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicio-commons: com.sanchez.microservicios.commons:microservicio-commons:0.0.1-SNAPSHOT with classifier null to /microservicio-commons/target/classes
+2020-10-02 15:44:02,836 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:44:02,840 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:44:02,844 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:44:02,852 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:44:02,853 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 15:46:53,103 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:46:53,104 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:46:53,106 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:46:53,107 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:46:53,107 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 15:49:41,237 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:49:41,237 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:49:41,239 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:49:41,241 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:49:41,241 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 15:51:55,955 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:51:55,956 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:51:55,957 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:51:55,959 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:51:56,005 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 15:52:30,296 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:52:30,297 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:52:30,301 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:52:30,303 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:52:30,303 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 15:59:03,891 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:59:03,894 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:59:03,897 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:59:03,901 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:59:03,901 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 15:59:30,051 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:59:30,053 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 15:59:30,056 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 15:59:30,058 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 15:59:30,058 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 16:01:27,830 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 16:01:27,831 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 16:01:27,833 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 16:01:27,835 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 16:01:27,835 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 16:01:35,867 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 16:01:35,868 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 16:01:35,870 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 16:01:35,871 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 16:01:35,871 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-10-02 16:04:34,540 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 16:04:34,541 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-02 16:04:34,543 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 16:04:34,545 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-02 16:04:34,545 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IDeveloper\java\microservicios\alquileres\microservicio-seguridad\src\test\resources
+2020-11-14 09:51:32,338 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-02 03:01:29,427 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-03 13:41:17,233 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-03 13:41:28,595 [Worker-1: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-client:jar:1.19.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
